@@ -18,7 +18,7 @@ public class DB
 	private static final String JDBC_SHUTDOWN_URL = "jdbc:derby:c:/sisfarjDB;shutdown=true";	
 	private static Connection conexao;
 	private List<String[]> schema;
-	
+	// ahha
     private DB() throws SQLException
     {
     	int i = 0;
