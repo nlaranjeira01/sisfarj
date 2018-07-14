@@ -7,8 +7,6 @@ import domain.AutenticacaoMT;
 import utils.StringAleatoria;
 
 public class AddCredenciais {
-//ola2asdiojasdo
-	//asdsadsaa
 	public static void main(String[] args)
 	{
 		AutenticacaoMapper autM = new AutenticacaoMapper();
